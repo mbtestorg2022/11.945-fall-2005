@@ -14,16 +14,93 @@ videos:
 
 A selection of lecture notes from the course is available below.
 
-| SES # | LECTURE NOTES |
-| --- | --- |
-| 3 | Economic Development Theories: Neighborhoods as Economic Units Slides ([PDF]({{< baseurl >}}/resources/lect3_slides)); Notes ([PDF]({{< baseurl >}}/resources/lect3)) |
-| 4 | Review/Discussion of North End Field Trip Project Resources and Work Plan |
-| 5 | Developing an Economic Development Plan ([PDF]({{< baseurl >}}/resources/lect5)) |
-| 6 | Reading Review / Work Session: Springfield Political Context ([PDF]({{< baseurl >}}/resources/lect6)) |
-| 8 | Local Economic Analysis Tools ([PDF]({{< baseurl >}}/resources/lect8_pres)) |
-| FT2 | Client Meeting |
-| 14 | Structuring an Economic Development Strategy ([PDF]({{< baseurl >}}/resources/lect14)) District Revitalization Tools: Business Development and Marketing ([PDF]({{< baseurl >}}/resources/lect14_pres)) |
-| FT4 | Presentation/Discussion of Final Plan with Campus Committee 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Development Theories: Neighborhoods as Economic Units Slides ([PDF]({{< baseurl >}}/resources/lect3_slides)); Notes ([PDF]({{< baseurl >}}/resources/lect3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Review/Discussion of North End Field Trip Project Resources and Work Plan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Developing an Economic Development Plan ([PDF]({{< baseurl >}}/resources/lect5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Review / Work Session: Springfield Political Context ([PDF]({{< baseurl >}}/resources/lect6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Local Economic Analysis Tools ([PDF]({{< baseurl >}}/resources/lect8_pres))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+FT2
+{{< tdclose >}}
+{{< tdopen >}}
+Client Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Structuring an Economic Development Strategy ([PDF]({{< baseurl >}}/resources/lect14)) District Revitalization Tools: Business Development and Marketing ([PDF]({{< baseurl >}}/resources/lect14_pres))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+FT4
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation/Discussion of Final Plan with Campus Committee
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
  Video Lectures
 ---------------
