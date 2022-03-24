@@ -94,7 +94,7 @@ _Regional Labor Market Profile, Hampden County, Summer 2004_. ([PDF](http://lmi2
   
 Porter, Michael E. _Regional Competitiveness in the Pioneer Valley_. Cambridge, MA: Harvard Business School Institute for Strategy and Competitiveness, 2003. ([PDF](http://www.hbs.edu/faculty/Publication%20Files/MA_RCC_PioneerValley_eed60f82-6b7d-418f-98a1-32a10981cc7b.pdf))  
   
-_Pioneer Valley Plan for Progress: Economic Strategies for the Region_. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf))
+_Pioneer Valley Plan for Progress: Economic Strategies for the Region_. ([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
