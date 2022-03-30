@@ -5,6 +5,7 @@ description: 'This resource contains information on building in the present, gro
   report for the projects.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/c82203acc3217a313472191ba664d770_finalreport.pdf
 file_type: application/pdf
+parent_uid: cf6b9a64-a5f4-60e8-dac8-970dbf0a86bf
 resourcetype: Document
 title: finalreport.pdf
 uid: c82203ac-c321-7a31-3472-191ba664d770

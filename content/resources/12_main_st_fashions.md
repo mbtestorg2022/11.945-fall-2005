@@ -8,6 +8,7 @@ image_metadata:
   caption: A small clothing store in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Fashion.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 12_main_st_fashions.jpg
 uid: 9886b25b-1d69-adeb-8d4e-f7ec4301454c

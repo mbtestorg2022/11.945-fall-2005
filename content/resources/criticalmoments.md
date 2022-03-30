@@ -5,6 +5,7 @@ description: 'Course reading. Amulya, Joy. "Summary of Critical Moments Reflecti
   2004.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/4bcf2a419a59676f158e80d0c40c1ee9_criticalmoments.pdf
 file_type: application/pdf
+parent_uid: cb3c6821-9417-2cdd-eddb-63ae5064bc5f
 resourcetype: Document
 title: criticalmoments.pdf
 uid: 4bcf2a41-9a59-676f-158e-80d0c40c1ee9

@@ -5,6 +5,7 @@ description: This resource discusses preparation of report and brief summary  on
   on past planning initiatives and improvement agendas.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/24b13786096864b750384fdcfa1ea5bd_assignment1.pdf
 file_type: application/pdf
+parent_uid: aa84dd92-2948-d7dc-ba6b-3c7f163efba9
 resourcetype: Document
 title: assignment1.pdf
 uid: 24b13786-0968-64b7-5038-4fdcfa1ea5bd

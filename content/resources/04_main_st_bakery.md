@@ -7,6 +7,7 @@ image_metadata:
   caption: A bakery on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Bakery.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 04_main_st_bakery.jpg
 uid: 0df9607f-5354-d9cb-e198-1c123c022744

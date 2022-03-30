@@ -9,6 +9,7 @@ image_metadata:
     abandonment.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Boarded windows.
+parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 resourcetype: Image
 title: 06_boarded_windows.jpg
 uid: a2be4713-340e-dcdd-29d6-e2afbc57f481

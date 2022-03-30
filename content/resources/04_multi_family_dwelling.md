@@ -8,6 +8,7 @@ image_metadata:
   caption: Multi-family houses are more common in the Memorial Square neighborhood.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Multi-family.
+parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 resourcetype: Image
 title: 04_multi_family_dwelling.jpg
 uid: e8aa1199-7644-a8ad-6382-727139cf68bb

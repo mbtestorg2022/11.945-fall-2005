@@ -8,6 +8,7 @@ image_metadata:
   caption: A mixed use building on Main Street with a number of small businesses.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Mixed use.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 08_main_st_mixed.jpg
 uid: 172ab6ec-9a43-d6c1-3f4f-5e4f8a21052c

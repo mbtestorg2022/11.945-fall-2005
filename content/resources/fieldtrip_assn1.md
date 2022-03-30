@@ -5,6 +5,7 @@ description: 'This resource contains the assignments for the team 1: traffic/ped
   and team 4: district image/clues/people.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/89815557991727f27ee0c4513ece38e0_fieldtrip_assn1.pdf
 file_type: application/pdf
+parent_uid: aa84dd92-2948-d7dc-ba6b-3c7f163efba9
 resourcetype: Document
 title: fieldtrip_assn1.pdf
 uid: 89815557-9917-27f2-7ee0-c4513ece38e0

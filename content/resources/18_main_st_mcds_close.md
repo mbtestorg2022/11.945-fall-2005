@@ -8,6 +8,7 @@ image_metadata:
   caption: A McDonald's sits immediately adjacent to the strip mall.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: McDonald's.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 18_main_st_mcds_close.jpg
 uid: 58f7a62f-9782-3d98-a714-f41670fe999e

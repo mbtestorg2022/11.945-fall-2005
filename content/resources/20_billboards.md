@@ -9,6 +9,7 @@ image_metadata:
     Street in the North End.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: ''
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 20_billboards.jpg
 uid: b1d02740-008b-d56b-7027-be35e2954169

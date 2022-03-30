@@ -8,6 +8,7 @@ image_metadata:
   caption: The Baystate Hospital is the largest employer in the North End.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Baystate.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 01_baystate_hospital.jpg
 uid: 478ca6f9-80cf-0536-88e9-2b73612d702b

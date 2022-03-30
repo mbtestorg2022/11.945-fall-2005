@@ -18,6 +18,7 @@ description: 'This resource dicusses economic data, demographic analysis, econom
   foundation study.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/6f79788ac51cb2adcf91d191f4a0bcc3_lect8_pres.pdf
 file_type: application/pdf
+parent_uid: 8a0dfd24-cafe-b85c-1793-7a737cde3145
 resourcetype: Document
 title: lect8_pres.pdf
 uid: 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3

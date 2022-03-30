@@ -7,6 +7,7 @@ image_metadata:
   caption: A small music store on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Music.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 06_main_st_music.jpg
 uid: 88915bb8-4e9b-868d-185f-0c0fa3b87374

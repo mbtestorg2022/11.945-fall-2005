@@ -8,6 +8,7 @@ image_metadata:
   caption: Bank of America in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Bank.
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 13_main_st_bank.jpg
 uid: fcef2534-a7a8-00c6-61b6-dfce4d09ab2b
